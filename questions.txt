@@ -1,0 +1,50 @@
+Assignment – 1
+Create an account in AWS and configure a budget.
+
+Assignment – 2
+Create MFA (Multifactor Authentication) for Authentication
+
+Assignment – 3
+Create IAM user and give full access to S3.
+
+Assignment – 4
+Create a private bucket in AWS Upload a file and check by reassigned 
+URL whether you can access the file or not.
+
+Assignment – 5
+Create a public Bucket in AWS. Upload a file and give the necessary 
+permission to check whether the file URL is working.
+
+
+Assignment – 6
+Upload a static website on S3.
+
+Assignment – 7
+Hosting a Website on EC2.
+
+Assignment – 8
+Deploy a project from a local machine to GitHub and vice versa.
+
+Assignment – 9
+Deploy a project from GitHub on EC2.
+
+Assignment – 10
+Deploy a project from GitHub to EC2 by creating a new security group 
+and user data.
+
+Assignment – 11
+Build scaling plans in AWS that balance the load on different EC2 
+instances.
+
+Assignment – 12
+Deploy and run the project in AWS without using port
+
+Assignment – 13
+Create a work mail for your organization.
+
+Assignment – 14
+Create an Elastic IP for an Instance.
+
+
+Assignment – 15
+Create a Serverless computing service.
